@@ -1,0 +1,11 @@
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\bin\Debug\netcoreapp2.2\BODMAS.deps.json
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\bin\Debug\netcoreapp2.2\BODMAS.runtimeconfig.json
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\bin\Debug\netcoreapp2.2\BODMAS.runtimeconfig.dev.json
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\bin\Debug\netcoreapp2.2\BODMAS.dll
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\bin\Debug\netcoreapp2.2\BODMAS.pdb
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\obj\Debug\netcoreapp2.2\BODMAS.csprojAssemblyReference.cache
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\obj\Debug\netcoreapp2.2\BODMAS.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\obj\Debug\netcoreapp2.2\BODMAS.AssemblyInfoInputs.cache
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\obj\Debug\netcoreapp2.2\BODMAS.AssemblyInfo.cs
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\obj\Debug\netcoreapp2.2\BODMAS.dll
+C:\Users\Oliver\source\repos\BODMAS\BODMAS\obj\Debug\netcoreapp2.2\BODMAS.pdb
