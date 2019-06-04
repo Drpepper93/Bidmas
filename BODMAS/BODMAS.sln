@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BODMAS", "BODMAS\BODMAS.csproj", "{746580D1-F998-4147-BABE-4C07160E71D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BODMAS", "BODMAS\BODMAS.csproj", "{746580D1-F998-4147-BABE-4C07160E71D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BODMAS.Tests", "BODMAS.Tests\BODMAS.Tests.csproj", "{8409E18C-524B-48DF-98A0-A9F20A790EEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{746580D1-F998-4147-BABE-4C07160E71D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{746580D1-F998-4147-BABE-4C07160E71D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{746580D1-F998-4147-BABE-4C07160E71D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8409E18C-524B-48DF-98A0-A9F20A790EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8409E18C-524B-48DF-98A0-A9F20A790EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8409E18C-524B-48DF-98A0-A9F20A790EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8409E18C-524B-48DF-98A0-A9F20A790EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

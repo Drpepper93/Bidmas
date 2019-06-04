@@ -1,0 +1,17 @@
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\BODMAS.Tests.deps.json
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\BODMAS.Tests.dll
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\BODMAS.dll
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\BODMAS.pdb
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\obj\Debug\netcoreapp2.2\BODMAS.Tests.csprojAssemblyReference.cache
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\obj\Debug\netcoreapp2.2\BODMAS.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\obj\Debug\netcoreapp2.2\BODMAS.Tests.AssemblyInfoInputs.cache
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\obj\Debug\netcoreapp2.2\BODMAS.Tests.AssemblyInfo.cs
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\obj\Debug\netcoreapp2.2\BODMAS.Tests.csproj.CopyComplete
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\BODMAS.Tests.runtimeconfig.json
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\BODMAS.Tests.runtimeconfig.dev.json
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\bin\Debug\netcoreapp2.2\BODMAS.Tests.pdb
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\obj\Debug\netcoreapp2.2\BODMAS.Tests.dll
+C:\Users\Oliver\source\repos\BODMAS\BODMAS.Tests\obj\Debug\netcoreapp2.2\BODMAS.Tests.pdb
