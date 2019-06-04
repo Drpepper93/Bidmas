@@ -160,7 +160,7 @@ namespace BODMAS
             double ans = x;
             for (int i = 1; i < y; i++)
             {
-                ans *= ans;
+                ans *= x;
             }
             sb.Remove(index1, index2 - index1 + 1);
             sb.Insert(index1, ans);
